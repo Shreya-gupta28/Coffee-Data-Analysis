@@ -1,0 +1,2 @@
+# Coffee-Data-Analysis
+This project entails an in-depth examination of coffee-related data using advanced Excel features. This includes data cleansing, pivot tables, and complex formulae to uncover insights about coffee consumption trends, customer preferences, and market dynamics. The project aims to provide actionable information for coffee businesses to enhance product offerings and marketing strategies in a highly competitive market. 
